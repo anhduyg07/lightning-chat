@@ -29,6 +29,49 @@
             {
               "client_id": "985314052896-796ilhvbb1ol3nou90djqeubkrv7aaek.apps.googleusercontent.com",
               "client_type": 3
+            },
+            {
+              "client_id": "985314052896-ocvk0kpj2klrkvb55g7542cbqj81bnjj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.brazel.flashChat"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985314052896:android:75e4a1d00a32328b162545",
+        "android_client_info": {
+          "package_name": "com.anhduy.lightning_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985314052896-796ilhvbb1ol3nou90djqeubkrv7aaek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemOlW8xnl4zsgremWwYjqlMQSEL4_qA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985314052896-796ilhvbb1ol3nou90djqeubkrv7aaek.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "985314052896-ocvk0kpj2klrkvb55g7542cbqj81bnjj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "co.brazel.flashChat"
+              }
             }
           ]
         }

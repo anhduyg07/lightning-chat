@@ -55,7 +55,7 @@ class _WelcomeScreenState extends State<WelcomeScreen>
                 ),
                 AnimatedTextKit(
                   animatedTexts: [
-                    TyperAnimatedText('Flash Chat',
+                    TyperAnimatedText('Lightning Chat',
                         textStyle: TextStyle(
                             fontSize: 45.0,
                             fontWeight: FontWeight.w900,

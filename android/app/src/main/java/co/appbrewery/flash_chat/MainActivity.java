@@ -1,4 +1,4 @@
-package co.appbrewery.flash_chat;
+package com.anhduy.lightning_chat;
 
 import io.flutter.embedding.android.FlutterActivity;
 
