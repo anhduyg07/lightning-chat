@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "985314052896",
+    "project_id": "flash-chat-b70c3",
+    "storage_bucket": "flash-chat-b70c3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:985314052896:android:887a993d203e023a162545",
+        "android_client_info": {
+          "package_name": "co.brazel.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "985314052896-796ilhvbb1ol3nou90djqeubkrv7aaek.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDemOlW8xnl4zsgremWwYjqlMQSEL4_qA8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "985314052896-796ilhvbb1ol3nou90djqeubkrv7aaek.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
